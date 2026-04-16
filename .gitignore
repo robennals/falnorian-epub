@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Falnorian rulebook conversion intermediates
+# Source PDF and generated artifacts kept locally only
+falnorianrulebookapril2025.pdf
+falnorian_rulebook.html
+rulebook_raw.txt
+rulebook_layout.txt
+rulebook_full.txt
+rulebook_cleaned.txt
+images/
+page-*.jpg
+pg-*.jpg
+cls-*.jpg
+lvl-*.jpg
+sorc-*.jpg
+price-*.jpg
+check-*.jpg
